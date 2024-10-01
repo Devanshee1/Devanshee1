@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Devanshee Sharma</h1>
 <h3 align="center">Skilled in harnessing contemporary technologies to develop user-focused, scalable, and high-efficiency solutions. Dedicated to ongoing learning and staying informed about industry advancements to foster innovation and deliver state-of-the-art solutions.</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 - 🌱 I’m currently learning **React Native**
 
